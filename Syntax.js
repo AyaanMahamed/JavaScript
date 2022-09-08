@@ -32,4 +32,12 @@ console.log (name)
 var empty=null
 console.log (empty)
 
+// I am printing a string here 
 
+var sentence= "Hi my name is Ayaan "
+
+console.log (sentence)
+
+  
+
+ 
